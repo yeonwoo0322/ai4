@@ -41,16 +41,16 @@ def display_right_content(prediction, data):
     cols = st.columns(3)
 
     # 1st Row - Images
-    for i in range(3):
+    for i in range(2):
         with cols[i]:
             st.image(data['images'][i], caption=f"이미지: {prediction}", use_column_width=True)
     # 2nd Row - YouTube Videos
-    for i in range(3):
+    for i in range(2):
         with cols[i]:
             st.video(data['videos'][i])
             st.caption(f"유튜브: {prediction}")
     # 3rd Row - Text
-    for i in range(3):
+    for i in range(2):
         with cols[i]:
             st.write(data['texts'][i])
 
@@ -86,7 +86,6 @@ content_data = {
             "https://youtu.be/R0Dt8nXVSxU?si=4z1ZDwRbkWpP7QTc",
         ],
         'texts': [
-            "꼬막무침",
             "꼬막무침 만들기1",
             "꼬막무침 만들기2"
         ]
@@ -101,7 +100,6 @@ content_data = {
             "https://youtu.be/l49_29O9JJM?si=svc9W4HS5BMCOpaY",
         ],
         'texts': [
-            "삼계탕",
             "삼계탕 만드는법1",
             "삼계탕 만드는법2"
         ]
@@ -116,7 +114,6 @@ content_data = {
             "https://youtu.be/us5Y8Hs7Rj4?si=MLdT296tSMfr-ib0",
         ],
         'texts': [
-            "팥죽",
             "팥죽 만드는법1",
             "팥죽 만드는법2"
         ]
