@@ -78,53 +78,47 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/HTc0B1J/87bc1bbcea2701cbc084c549a778b3f11.jpg"
+            "https://i.ibb.co/HTc0B1J/87bc1bbcea2701cbc084c549a778b3f11.jpg",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/p8PoJhGk8Ls?si=m_rwsiU965r4yisX",
+            "https://youtu.be/R0Dt8nXVSxU?si=4z1ZDwRbkWpP7QTc",
         ],
         'texts': [
-            "납작만두",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "꼬막무침",
+            "꼬막무침 만들기1",
+            "꼬막무침 만들기2"
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/Rv1cgmG/121176522xtsq.jpg",
+            "https://i.ibb.co/Q9rdRtC/c5c09e53bdcef.png",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/-QIVTRgHlow?si=mlFG2tEMYfZK5Azk",
+            "https://youtu.be/l49_29O9JJM?si=svc9W4HS5BMCOpaY",
         ],
         'texts': [
-            "물냉면",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "삼계탕",
+            "삼계탕 만드는법1",
+            "삼계탕 만드는법2"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/W0GvKp2/2rurcc7jh-E8t-SXQp-H8bc-ERVLcg-Gx81c-NKa-Gbvp-S7-Ek-HOa-Icx-OCpvfn02s-B5e6w-NVq-F80x-S-ft-Lm1-gx-Ikp.webp",
+            "https://i.ibb.co/7tfhLyG/detail-11024-0-51665303-f211-4e36-8601-c7e5f9ca48d4.jpg",
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/mqLzz-OtPvo?si=Qjku7NU5RD-xIY4T",
+            "https://youtu.be/us5Y8Hs7Rj4?si=MLdT296tSMfr-ib0",
         ],
         'texts': [
-            "비빔냉면",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "팥죽",
+            "팥죽 만드는법1",
+            "팥죽 만드는법2"
         ]
     }
 }
