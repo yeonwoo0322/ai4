@@ -86,8 +86,8 @@ content_data = {
             "https://youtu.be/R0Dt8nXVSxU?si=4z1ZDwRbkWpP7QTc",
         ],
         'texts': [
-            "꼬막무침 만들기1",
-            "꼬막무침 만들기2"
+            "겨울 제철음식인 꼬막무침 만들기1",
+            "겨울 제철음식인 꼬막무침 만들기2"
         ]
     },
     labels[1]: {
@@ -100,8 +100,8 @@ content_data = {
             "https://youtu.be/l49_29O9JJM?si=svc9W4HS5BMCOpaY",
         ],
         'texts': [
-            "삼계탕 만드는법1",
-            "삼계탕 만드는법2"
+            "여름 제철음식인 삼계탕 만드는법1",
+            "여름 제철음식인 삼계탕 만드는법2"
         ]
     },
     labels[2]: {
@@ -114,8 +114,8 @@ content_data = {
             "https://youtu.be/us5Y8Hs7Rj4?si=MLdT296tSMfr-ib0",
         ],
         'texts': [
-            "팥죽 만드는법1",
-            "팥죽 만드는법2"
+            "가을 제철음식인 팥죽 만드는법1",
+            "가을 제철음식인 팥죽 만드는법2"
         ]
     }
 }
